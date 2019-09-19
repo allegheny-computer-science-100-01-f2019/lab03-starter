@@ -1,4 +1,4 @@
-# cs1002019-lab03-solution
+# cs1002019-lab03-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the solution for Laboratory 3 in Computer Science 100.
