@@ -1,5 +1,5 @@
 ---
-name: cs100-01-lab03-solution
+name: cs100-01-lab03-starter
 break: true
 indent: 4
 ---
@@ -35,7 +35,7 @@ writing/reflection.md:
     ConfirmFileExists
     CountFileWords --count 300
     CountMarkdownTags --tag "heading" --count 6 --exact
-    CountMarkdownTags --tag "code" --count 3 --exact
+    CountMarkdownTags --tag "code" --count 5 --exact
     CountMarkdownTags --tag "code_block" --count 1 --exact
     CountMarkdownTags --tag "list" --count 1 --exact
     MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
